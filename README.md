@@ -12,80 +12,86 @@
 - [Drivers](#drivers)
 - [Instant messaging](#instant-messaging)
 - [Health](#health)
+- [Project and Task Management](#project-and-task-management)
 - [Security](#security)
 - [Storage](#storage)
-- [Task Management](#task-management)
 
 
 ## BitTorrent
 *A peer-to-peer file sharing (P2P) communications protocol.*
 
-- [µTorrent](http://utorrent.com) — BitTorrent client.
+- [µTorrent](http://www.utorrent.com/) — BitTorrent client.
   <br>`Windows`, `Mac`, `Android`, `Web`
 
 
 ## CLI
 *Command-line interface and utils.*
 
-- [ConEmu](http://conemu.github.io) — free and open-source tabbed terminal emulator for Windows.
+- [ConEmu](http://conemu.github.io) — Free and open-source tabbed terminal emulator for Windows.
+  <br>`Windows`
+- [UnxUtils](http://unxutils.sourceforge.net/) — Ports of common GNU Unix-like utilities to native Win32.
   <br>`Windows`
 
 
 ## Database Management
 *Software for SQL and NoSQL development, administration and database design.*
 
-- [MySQL Workbench](http://mysqlworkbench.org) — visual database administration and design tool for the MySQL database system.
+- [MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
   <br>`Windows`, `Mac`, `Linux`
-- [Robomongo](http://robomongo.org) — native and cross-platform MongoDB manager.
+- [Robomongo](https://robomongo.org/) — Native and cross-platform MongoDB manager.
   <br>`Windows`, `Mac`, `Linux`
 
 
 ## Drivers
 *Software interface to hardware devices.*
 
-- [DriverPack Solution](http://drp.su) — drivers auto-installation.
+- [DriverPack Solution](https://drp.su/index.htm) — Drivers auto-installation.
   <br>`Windows`
 
 
 ## Health
 *Software for sport and health.*
 
-- [f.lux](http://justgetflux.com) — computer program that adjusts a display's color temperature according to location and time of day.
+- [f.lux](https://justgetflux.com/) — Adjusts a display's color temperature according to location and time of day.
   <br>`Windows`, `Linux`, `Mac`
 
 
 ## Instant messaging
 *Online chat which offers real-time text transmission over the Internet.*
 
-- [Skype](http://skype.com) — text, video chat and voice call service.
+- [Skype](https://skype.com/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
+
+
+## Project and Task Management
+*The process of managing a project or a task through its life cycle.*
+
+- [Wunderlist](https://wunderlist.com/) — Task management application for smartphone, tablet, computer and smartwatch.
+  <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
+- [XMind](http://www.xmind.net/) — Mind mapping and brainstorming software.
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Security
 *Protect a computer system and computer network.*
 
-- [AdGuard](http://adguard.com) — blocking of ad and tracking requests.
+- [AdGuard](https://adguard.com/) — Blocking of ad and tracking requests.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
-- [Avast](http://avast.com) — a family of antivirus software and internet security applications.
+- [Avast](https://www.avast.com/) — Family of antivirus software and internet security applications.
   <br>`Windows`, `Mac`, `Android`
-- [Malwarebytes Anti-Malware](http://malwarebytes.com) (MBAM) — finds and removes malware.
+- [KeePass](http://keepass.info/) — Free and open source password manager.
+  <br>`Windows`, `Linux`, `Mac`
+- [Malwarebytes Anti-Malware](https://www.malwarebytes.com/) (MBAM) — Finds and removes malware.
   <br>`Windows`, `Mac`
-- [Outpost Security Suite](http://agnitum.com) — personal firewall, anti-spyware, Intrusion prevention system and Internet Security tools.
+- [Outpost Security Suite](http://www.agnitum.com/) — Personal firewall, anti-spyware, Intrusion prevention system and Internet Security tools.
   <br>`Windows`, **`deprecated`**
 
 
 ##Storage
 *File hosting service (cloud storage) and file management software.*
 
-- [Dropbox](http://dropbox.com) — cloud storage service and client software.
+- [Dropbox](https://dropbox.com/) — Cloud storage service and client software.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
-
-
-## Task Management
-*The process of managing a task through its life cycle.*
-
-- [Wunderlist](http://wunderlist.com) — task management application for smartphone, tablet, computer and smartwatch.
-  <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 
 
 ## License
