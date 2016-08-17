@@ -60,13 +60,15 @@
 ## Instant Messaging
 *Online chat which offers real-time text transmission over the Internet.*
 
-- [Skype](https://www.skype.com/) — Text, video chat and voice call service.
+- [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 
 
 ## Network
 
 - [Fiddler](http://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
+  <br>`Windows`, `Linux`, `Mac`
+- [SoapUI](http://www.soapui.org/) — REST and SOAP testing tool.
   <br>`Windows`, `Linux`, `Mac`
 
 
