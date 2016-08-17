@@ -10,8 +10,9 @@
 - [CLI](#cli)
 - [Database Management](#database-management)
 - [Drivers](#drivers)
-- [Instant messaging](#instant-messaging)
 - [Health](#health)
+- [Instant Messaging](#instant-messaging)
+- [Network](#network)
 - [Project and Task Management](#project-and-task-management)
 - [Security](#security)
 - [Storage](#storage)
@@ -20,7 +21,7 @@
 ## BitTorrent
 *A peer-to-peer file sharing (P2P) communications protocol.*
 
-- [µTorrent](http://www.utorrent.com/) — BitTorrent client.
+- [µTorrent](http://www.utorrent.com/intl/en/) — BitTorrent client.
   <br>`Windows`, `Mac`, `Android`, `Web`
 
 
@@ -56,17 +57,23 @@
   <br>`Windows`, `Linux`, `Mac`
 
 
-## Instant messaging
+## Instant Messaging
 *Online chat which offers real-time text transmission over the Internet.*
 
-- [Skype](https://skype.com/) — Text, video chat and voice call service.
+- [Skype](https://www.skype.com/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
+
+
+## Network
+
+- [Fiddler](http://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Project and Task Management
 *The process of managing a project or a task through its life cycle.*
 
-- [Wunderlist](https://wunderlist.com/) — Task management application for smartphone, tablet, computer and smartwatch.
+- [Wunderlist](https://www.wunderlist.com/) — Task management application for smartphone, tablet, computer and smartwatch.
   <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 - [XMind](http://www.xmind.net/) — Mind mapping and brainstorming software.
   <br>`Windows`, `Linux`, `Mac`
@@ -75,22 +82,22 @@
 ## Security
 *Protect a computer system and computer network.*
 
-- [AdGuard](https://adguard.com/) — Blocking of ad and tracking requests.
+- [AdGuard](https://adguard.com/en/welcome.html) — Blocking of ad and tracking requests.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
-- [Avast](https://www.avast.com/) — Family of antivirus software and internet security applications.
+- [Avast](https://www.avast.com/en-us/index) — Family of antivirus software and internet security applications.
   <br>`Windows`, `Mac`, `Android`
 - [KeePass](http://keepass.info/) — Free and open source password manager.
   <br>`Windows`, `Linux`, `Mac`
 - [Malwarebytes Anti-Malware](https://www.malwarebytes.com/) (MBAM) — Finds and removes malware.
   <br>`Windows`, `Mac`
-- [Outpost Security Suite](http://www.agnitum.com/) — Personal firewall, anti-spyware, Intrusion prevention system and Internet Security tools.
+- [Outpost Security Suite](http://www.agnitum.com/index.php) — Personal firewall, anti-spyware, Intrusion prevention system and Internet Security tools.
   <br>`Windows`, **`deprecated`**
 
 
 ##Storage
 *File hosting service (cloud storage) and file management software.*
 
-- [Dropbox](https://dropbox.com/) — Cloud storage service and client software.
+- [Dropbox](https://www.dropbox.com/) — Cloud storage service and client software.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 
 
