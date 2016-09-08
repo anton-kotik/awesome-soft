@@ -64,6 +64,8 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
+- [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
   
 
 ## Network
