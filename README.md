@@ -9,6 +9,7 @@
 - [BitTorrent](#bittorrent)
 - [CLI](#cli)
 - [Database Management](#database-management)
+- [Development](#development)
 - [Drivers](#drivers)
 - [Health](#health)
 - [Instant Messaging](#instant-messaging)
@@ -40,6 +41,13 @@
 - [MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
   <br>`Windows`, `Mac`, `Linux`
 - [Robomongo](https://robomongo.org/) — Native and cross-platform MongoDB manager.
+  <br>`Windows`, `Mac`, `Linux`
+
+
+## Development
+*Software development, documenting and testing tools.*
+
+- [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
   <br>`Windows`, `Mac`, `Linux`
 
 
