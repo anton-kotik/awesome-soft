@@ -13,6 +13,7 @@
 - [Drivers](#drivers)
 - [Health](#health)
 - [Instant Messaging](#instant-messaging)
+- [Modeling](#modeling)
 - [Network](#network)
 - [Project and Task Management](#project-and-task-management)
 - [Security](#security)
@@ -74,7 +75,14 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 - [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
-  
+
+
+## Modeling
+*Software for 3D modeling and visual effects.*
+
+- [SketchUp](http://www.sketchup.com/) —  3D modeling computer program for a wide range of drawing applications such as architectural, interior design and landscape architecture.
+  <br>`Windows`, `Mac`
+
 
 ## Network
 
