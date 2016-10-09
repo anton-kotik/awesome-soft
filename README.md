@@ -88,7 +88,7 @@
 
 - [Fiddler](http://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
   <br>`Windows`, `Linux`, `Mac`
-- [SoapUI](http://www.soapui.org/) — REST and SOAP testing tool.
+- [SoapUI](https://www.soapui.org/) — REST and SOAP testing tool.
   <br>`Windows`, `Linux`, `Mac`
 
 
