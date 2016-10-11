@@ -39,6 +39,8 @@
 ## Database Management
 *Software for SQL and NoSQL development, administration and database design.*
 
+- [DBeaver](http://dbeaver.jkiss.org/) — Universal SQL Client.
+  <br>`Windows`, `Mac`, `Linux`
 - [MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
   <br>`Windows`, `Mac`, `Linux`
 - [Robomongo](https://robomongo.org/) — Native and cross-platform MongoDB manager.
