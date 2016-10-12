@@ -50,6 +50,8 @@
 ## Development
 *Software development, documenting and testing tools.*
 
+- [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
+  <br>`Windows`
 - [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
   <br>`Windows`, `Mac`, `Linux`
 
