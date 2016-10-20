@@ -8,6 +8,7 @@
 
 - [BitTorrent](#bittorrent)
 - [CLI](#cli)
+- [Configuration Management](#configuration-management)
 - [Database Management](#database-management)
 - [Development](#development)
 - [Drivers](#drivers)
@@ -34,6 +35,13 @@
   <br>`Windows`
 - [UnxUtils](http://unxutils.sourceforge.net/) — Ports of common GNU Unix-like utilities to native Win32.
   <br>`Windows`
+
+
+## Configuration Management
+*Tracking and controlling software configurations.*
+
+- [Ansible](https://www.ansible.com/) — Platform for configuring and managing computers.
+  <br>`Windows`, `Mac`, `Linux`
 
 
 ## Database Management
