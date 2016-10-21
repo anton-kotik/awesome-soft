@@ -58,6 +58,8 @@
 ## Development
 *Software development, documenting and testing tools.*
 
+- [Docker](https://www.docker.com/) — Containerization platform.
+  <br>`Linux`
 - [GitHub Desktop](https://desktop.github.com/) — GitHub desktop client.
   <br>`Windows`, `Mac`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
