@@ -19,6 +19,7 @@
 - [Project and Task Management](#project-and-task-management)
 - [Security](#security)
 - [Storage](#storage)
+- [Utilities](#utilities)
 
 
 ## BitTorrent
@@ -136,11 +137,18 @@
   <br>`Windows`, **`deprecated`**
 
 
-##Storage
+## Storage
 *File hosting service (cloud storage) and file management software.*
 
 - [Dropbox](https://www.dropbox.com/) — Cloud storage service and client software.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
+
+
+## Utilities
+*Software utilities and widgets.*
+
+- [BoostSpeed](http://www.auslogics.com/en/software/boost-speed/) — Utils intended to speed up, optimize and clean computers.
+  <br>`Windows`
 
 
 ## License
