@@ -66,6 +66,8 @@
   <br>`Windows`, `Mac`, `Linux`
 - [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
   <br>`Windows`, `Mac`, `Linux`
+- [Vagrant](https://www.vagrantup.com/) — Product for building and maintaining portable virtual development environments.
+  <br>`Windows`, `Mac`, `Linux`
 
 
 ## Drivers
