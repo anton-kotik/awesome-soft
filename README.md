@@ -8,12 +8,12 @@
 
 - [BitTorrent](#bittorrent)
 - [CLI](#cli)
+- [Communications](#communications)
 - [Configuration Management](#configuration-management)
 - [Database Management](#database-management)
 - [Development](#development)
 - [Drivers](#drivers)
 - [Health](#health)
-- [Instant Messaging](#instant-messaging)
 - [Modeling](#modeling)
 - [Network](#network)
 - [Project and Task Management](#project-and-task-management)
@@ -36,6 +36,17 @@
   <br>`Windows`
 - [UnxUtils](http://unxutils.sourceforge.net/) — Ports of common GNU Unix-like utilities to native Win32.
   <br>`Windows`
+
+
+## Communications
+*Instant messaging (IM) and desktop sharing software.*
+
+- [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
+- [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
+- [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 
 
 ## Configuration Management
@@ -87,17 +98,6 @@
 
 - [f.lux](https://justgetflux.com/) — Adjusts a display's color temperature according to location and time of day.
   <br>`Windows`, `Linux`, `Mac`
-
-
-## Instant Messaging
-*Online chat which offers real-time text transmission over the Internet.*
-
-- [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
-  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
-- [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
-  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
-- [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
-  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 
 
 ## Modeling
