@@ -65,6 +65,8 @@
   <br>`Windows`, `Mac`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
   <br>`Windows`
+- [Open Server](http://open-server.ru/) — Portable WAMP platform.
+  <br>`Windows`
 - [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
   <br>`Windows`, `Mac`, `Linux`
 - [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
