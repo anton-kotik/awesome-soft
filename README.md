@@ -45,6 +45,8 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 - [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
+- [TeamViewer](http://www.teamviewer.com/) — Remote control, desktop sharing and web conferencing.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 
