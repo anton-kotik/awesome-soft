@@ -1,5 +1,5 @@
 
-# Awesome Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft)
+# Awesome Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft)
 
 > A curated list of awesome computer software for Windows, Linux, Mac OS, Android and iOS.
 
@@ -55,18 +55,18 @@
 *Tracking and controlling software configurations.*
 
 - [Ansible](https://www.ansible.com/) — Platform for configuring and managing computers.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Database Management
 *Software for SQL and NoSQL development, administration and database design.*
 
 - [DBeaver](http://dbeaver.jkiss.org/) — Universal SQL Client.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 - [MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 - [Robomongo](https://robomongo.org/) — Native and cross-platform MongoDB manager.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Development
@@ -81,11 +81,11 @@
 - [Open Server](http://open-server.ru/) — Portable WAMP platform.
   <br>`Windows`
 - [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 - [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 - [Vagrant](https://www.vagrantup.com/) — Product for building and maintaining portable virtual development environments.
-  <br>`Windows`, `Mac`, `Linux`
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Drivers
