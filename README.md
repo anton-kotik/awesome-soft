@@ -43,7 +43,7 @@
 
 - [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
-- [Mozilla Thunderbird](https://www.mozilla.org/ru/thunderbird/) — email, news, RSS, and chat client.
+- [Mozilla Thunderbird](https://www.mozilla.org/ru/thunderbird/) — Email, news, RSS, and chat client.
   <br>`Windows`, `Linux`, `Mac`
 - [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
@@ -107,7 +107,7 @@
 ## Modeling
 *Software for 3D modeling and visual effects.*
 
-- [SketchUp](http://www.sketchup.com/) —  3D modeling computer program for a wide range of drawing applications such as architectural, interior design and landscape architecture.
+- [SketchUp](http://www.sketchup.com/) — 3D modeling computer program for a wide range of drawing applications such as architectural, interior design and landscape architecture.
   <br>`Windows`, `Mac`
 
 
@@ -158,6 +158,8 @@
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
   <br>`Windows`
 - [ObjectDock](http://www.stardock.com/products/objectdock/) — Animated dock for Windows.
+  <br>`Windows`
+- [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
 
 
