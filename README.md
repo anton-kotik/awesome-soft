@@ -157,6 +157,8 @@
   <br>`Windows`
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
   <br>`Windows`
+- [Joxi](http://joxi.ru/) — Create and share screenshots.
+  <br>`Windows`, `Linux`, `Mac`
 - [ObjectDock](http://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
 - [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
