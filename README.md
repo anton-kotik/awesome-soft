@@ -1,5 +1,5 @@
 
-# Awesome Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft)
+# Awesome Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft)
 
 > A curated list of awesome computer software for Windows, Linux, Mac OS, Android and iOS.
 
@@ -80,7 +80,7 @@
   <br>`Windows`, `Mac`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
   <br>`Windows`
-- [Open Server](http://open-server.ru/) — Portable WAMP platform.
+- [Open Server](https://ospanel.io/) — Portable WAMP platform.
   <br>`Windows`
 - [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
   <br>`Windows`, `Linux`, `Mac`
@@ -153,7 +153,7 @@
 ## Utilities
 *Software utilities and widgets.*
 
-- [BoostSpeed](http://www.auslogics.com/en/software/boost-speed/) — Utils intended to speed up, optimize and clean computers.
+- [BoostSpeed](https://www.auslogics.com/en/software/boost-speed/) — Utils intended to speed up, optimize and clean computers.
   <br>`Windows`
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
   <br>`Windows`
