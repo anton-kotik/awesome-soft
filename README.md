@@ -34,6 +34,8 @@
 
 - [ConEmu](http://conemu.github.io) — Free and open-source tabbed terminal emulator for Windows.
   <br>`Windows`
+- [fish](http://fishshell.com/) — Smart and user-friendly bash alternative.
+  <br>`Linux`, `Mac`
 - [UnxUtils](http://unxutils.sourceforge.net/) — Ports of common GNU Unix-like utilities to native Win32.
   <br>`Windows`
 
