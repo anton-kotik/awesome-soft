@@ -157,7 +157,7 @@
   <br>`Windows`
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
   <br>`Windows`
-- [Joxi](http://joxi.ru/) — Create and share screenshots.
+- [Joxi](http://joxi.net/) — Create and share screenshots.
   <br>`Windows`, `Linux`, `Mac`
 - [ObjectDock](http://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
