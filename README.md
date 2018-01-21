@@ -163,6 +163,8 @@
   <br>`Windows`
 - [Joxi](http://joxi.net/) — Create and share screenshots.
   <br>`Windows`, `Linux`, `Mac`
+- [Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
+  <br>`Linux`
 - [ObjectDock](http://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
 - [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
