@@ -99,6 +99,8 @@
 
 - [DriverPack Solution](https://drp.su/index.htm) — Drivers auto-installation.
   <br>`Windows`
+- [K-Lite Codec Pack](http://www.codecguide.com/) — Collection of audio and video codecs for Windows.
+  <br>`Windows`
 
 
 ## Health
@@ -165,7 +167,7 @@
   <br>`Windows`, `Linux`, `Mac`
 - [Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
   <br>`Linux`
-- [K-Lite Codec Pack](http://www.codecguide.com/) — collection of audio and video codecs for Windows.
+- [MediaMonkey](http://www.mediamonkey.com/) — Digital media player and media library application for Windows.
   <br>`Windows`
 - [ObjectDock](http://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
