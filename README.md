@@ -159,6 +159,8 @@
 ## Utilities
 *Software utilities and widgets.*
 
+- [AIDA64](https://www.aida64.com/) — System information, diagnostics, and auditing application.
+  <br>`Windows`, `Android`, `iOS`
 - [BoostSpeed](https://www.auslogics.com/en/software/boost-speed/) — Utils intended to speed up, optimize and clean computers.
   <br>`Windows`
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
