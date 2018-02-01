@@ -67,7 +67,7 @@
 
 - [DataGrip](https://www.jetbrains.com/datagrip/) — Cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers for DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
   <br>`Windows`, `Linux`, `Mac`
-- [DBeaver](http://dbeaver.jkiss.org/) — Universal SQL Client.
+- [DBeaver](https://dbeaver.jkiss.org/) — Universal SQL Client.
   <br>`Windows`, `Linux`, `Mac`
 - [MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
   <br>`Windows`, `Linux`, `Mac`
