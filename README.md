@@ -32,7 +32,7 @@
 ## CLI
 *Command-line interface and utils.*
 
-- [ConEmu](http://conemu.github.io) — Free and open-source tabbed terminal emulator for Windows.
+- [ConEmu](https://conemu.github.io/) — Free and open-source tabbed terminal emulator for Windows.
   <br>`Windows`
 - [fish](http://fishshell.com/) — Smart and user-friendly bash alternative.
   <br>`Linux`, `Mac`
@@ -97,7 +97,7 @@
 ## Drivers
 *Software interface to hardware devices.*
 
-- [DriverPack Solution](https://drp.su/index.htm) — Drivers auto-installation.
+- [DriverPack Solution](https://drp.su/en) — Drivers auto-installation.
   <br>`Windows`
 - [K-Lite Codec Pack](http://www.codecguide.com/) — Collection of audio and video codecs for Windows.
   <br>`Windows`
@@ -113,13 +113,13 @@
 ## Modeling
 *Software for 3D modeling and visual effects.*
 
-- [SketchUp](http://www.sketchup.com/) — 3D modeling computer program for a wide range of drawing applications such as architectural, interior design and landscape architecture.
+- [SketchUp](https://www.sketchup.com/) — 3D modeling computer program for a wide range of drawing applications such as architectural, interior design and landscape architecture.
   <br>`Windows`, `Mac`
 
 
 ## Network
 
-- [Fiddler](http://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
+- [Fiddler](https://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
   <br>`Windows`, `Linux`, `Mac`
 - [SoapUI](https://www.soapui.org/) — REST and SOAP testing tool.
   <br>`Windows`, `Linux`, `Mac`
@@ -141,12 +141,10 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Avast](https://www.avast.com/en-us/index) — Family of antivirus software and internet security applications.
   <br>`Windows`, `Mac`, `Android`
-- [KeePass](http://keepass.info/) — Free and open source password manager.
+- [KeePass](https://keepass.info/) — Free and open source password manager.
   <br>`Windows`, `Linux`, `Mac`
 - [Malwarebytes Anti-Malware](https://www.malwarebytes.com/) (MBAM) — Finds and removes malware.
   <br>`Windows`, `Mac`
-- [Outpost Security Suite](http://www.agnitum.com/index.php) — Personal firewall, anti-spyware, Intrusion prevention system and Internet Security tools.
-  <br>`Windows`, **`deprecated`**
 
 
 ## Storage
@@ -171,7 +169,7 @@
   <br>`Linux`
 - [MediaMonkey](http://www.mediamonkey.com/) — Digital media player and media library application for Windows.
   <br>`Windows`
-- [ObjectDock](http://www.stardock.com/products/objectdock/) — Animated dock for Windows.
+- [ObjectDock](https://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
 - [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
