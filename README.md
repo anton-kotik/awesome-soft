@@ -108,6 +108,8 @@
 
 - [f.lux](https://justgetflux.com/) — Adjusts a display's color temperature according to location and time of day.
   <br>`Windows`, `Linux`, `Mac`
+- [Yazio](https://www.yazio.com/en) — Calorie counter and diet tracker.
+  <br>`Android`, `iOS`
 
 
 ## Modeling
