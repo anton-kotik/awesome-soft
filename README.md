@@ -82,6 +82,8 @@
   <br>`Linux`
 - [GitHub Desktop](https://desktop.github.com/) — GitHub desktop client.
   <br>`Windows`, `Mac`
+- [Kitematic](https://kitematic.com/) — GUI for running Docker containers.
+  <br>`Windows`, `Linux`, `Mac`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
   <br>`Windows`
 - [Open Server](https://ospanel.io/) — Portable WAMP platform.
