@@ -19,6 +19,7 @@
 - [Project and Task Management](#project-and-task-management)
 - [Security](#security)
 - [Storage](#storage)
+- [Text](#text)
 - [Utilities](#utilities)
 
 
@@ -45,7 +46,7 @@
 
 - [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
-- [Mozilla Thunderbird](https://www.thunderbird.net/) — Email, news, RSS, and chat client.
+- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) — Email, news, RSS, and chat client.
   <br>`Windows`, `Linux`, `Mac`
 - [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
@@ -156,6 +157,12 @@
 
 - [Dropbox](https://www.dropbox.com/) — Cloud storage service and client software.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
+
+
+## Text
+*Text editors.*
+
+- [Bear Writer](http://www.bear-writer.com/) — Beautiful, flexible writing app for crafting notes and prose.
 
 
 ## Utilities
