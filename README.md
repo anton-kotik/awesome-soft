@@ -25,7 +25,7 @@
 ## BitTorrent
 *A peer-to-peer file sharing (P2P) communications protocol.*
 
-- [µTorrent](http://www.utorrent.com/intl/en/) — BitTorrent client.
+- [µTorrent](https://www.utorrent.com/intl/en/) — BitTorrent client.
   <br>`Windows`, `Mac`, `Android`, `Web`
 
 
@@ -45,7 +45,7 @@
 
 - [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
-- [Mozilla Thunderbird](https://www.mozilla.org/ru/thunderbird/) — Email, news, RSS, and chat client.
+- [Mozilla Thunderbird](https://www.thunderbird.net/) — Email, news, RSS, and chat client.
   <br>`Windows`, `Linux`, `Mac`
 - [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
@@ -67,7 +67,7 @@
 
 - [DataGrip](https://www.jetbrains.com/datagrip/) — Cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers for DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
   <br>`Windows`, `Linux`, `Mac`
-- [DBeaver](https://dbeaver.jkiss.org/) — Universal SQL Client.
+- [DBeaver](https://dbeaver.io/) — Universal SQL Client.
   <br>`Windows`, `Linux`, `Mac`
 - [MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
   <br>`Windows`, `Linux`, `Mac`
@@ -134,7 +134,7 @@
 
 - [Wunderlist](https://www.wunderlist.com/) — Task management application for smartphone, tablet, computer and smartwatch.
   <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
-- [XMind](http://www.xmind.net/) — Mind mapping and brainstorming software.
+- [XMind](https://www.xmind.net/) — Mind mapping and brainstorming software.
   <br>`Windows`, `Linux`, `Mac`
 
 
