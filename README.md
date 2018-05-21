@@ -122,7 +122,15 @@
   <br>`Windows`, `Mac`
 
 
+## Money
+*Financial management.*
+
+- [Exodus](https://www.exodus.io/) — Multi-asset wallet.
+  <br>`Windows`, `Linux`, `Mac`
+
+
 ## Network
+*Software for computer networks.*
 
 - [Fiddler](https://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
   <br>`Windows`, `Linux`, `Mac`
@@ -163,6 +171,7 @@
 *Text editors.*
 
 - [Bear Writer](http://www.bear-writer.com/) — Beautiful, flexible writing app for crafting notes and prose.
+  <br>`Mac`, `iOS`
 
 
 ## Utilities
