@@ -170,6 +170,8 @@
   <br>`Mac`, `iOS`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
   <br>`Windows`
+- [Remarkable](http://remarkableapp.github.io/) — Markdown editor.
+  <br>`Windows`, `Linux`
 - [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
   <br>`Windows`, `Linux`, `Mac`
 - [Typora](https://typora.io/) — Markdown editor.
