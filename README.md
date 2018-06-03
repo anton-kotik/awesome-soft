@@ -85,13 +85,9 @@
   <br>`Windows`, `Mac`
 - [Kitematic](https://kitematic.com/) — GUI for running Docker containers.
   <br>`Windows`, `Linux`, `Mac`
-- [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
-  <br>`Windows`
 - [Open Server](https://ospanel.io/) — Portable WAMP platform.
   <br>`Windows`
 - [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
-  <br>`Windows`, `Linux`, `Mac`
-- [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
   <br>`Windows`, `Linux`, `Mac`
 - [Vagrant](https://www.vagrantup.com/) — Product for building and maintaining portable virtual development environments.
   <br>`Windows`, `Linux`, `Mac`
@@ -172,6 +168,12 @@
 
 - [Bear Writer](http://www.bear-writer.com/) — Beautiful, flexible writing app for crafting notes and prose.
   <br>`Mac`, `iOS`
+- [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
+  <br>`Windows`
+- [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
+  <br>`Windows`, `Linux`, `Mac`
+- [Typora](https://typora.io/) — Markdown editor.
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Utilities
