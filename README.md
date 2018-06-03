@@ -181,6 +181,8 @@
   <br>`Windows`, `Android`, `iOS`
 - [BoostSpeed](https://www.auslogics.com/en/software/boost-speed/) — Utils intended to speed up, optimize and clean computers.
   <br>`Windows`
+- [Clementine](https://www.clementine-player.org/) — Music player and library organizer.
+  <br>`Windows`, `Linux`, `Mac`
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
   <br>`Windows`
 - [Joxi](http://joxi.net/) — Create and share screenshots.
