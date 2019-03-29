@@ -197,6 +197,8 @@
   <br>`Windows`
 - [ObjectDock](https://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
+- [Peek](https://github.com/phw/peek) — Animated GIF screen recorder tool.
+  <br>`Linux`
 - [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
 
