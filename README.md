@@ -164,12 +164,16 @@
 
 
 ## Text
-*Text editors.*
+*Text editors and e-book readers.*
 
 - [Bear Writer](http://www.bear-writer.com/) — Beautiful, flexible writing app for crafting notes and prose.
   <br>`Mac`, `iOS`
+- [eReader Prestigio](http://ereader.prestigio.com/) — Multi lingual, multi format text and audio books reading app.
+  <br>`Android`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
   <br>`Windows`
+- [Okular](https://okular.kde.org/) — Universal document viewer developed by KDE.
+  <br>`Linux`
 - [Remarkable](http://remarkableapp.github.io/) — Markdown editor.
   <br>`Windows`, `Linux`
 - [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
