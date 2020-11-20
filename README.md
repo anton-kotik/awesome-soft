@@ -193,6 +193,8 @@
   <br>`Windows`, `Linux`, `Mac`
 - [Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
   <br>`Windows`
+- [HardInfo](https://github.com/lpereira/hardinfo/wiki) — System profiler and hardware info for Linux.
+  <br>`Linux`
 - [Joxi](http://joxi.net/) — Create and share screenshots.
   <br>`Windows`, `Linux`, `Mac`
 - [Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
@@ -205,6 +207,8 @@
   <br>`Linux`
 - [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
+- [ScreenCloud](https://screencloud.net/) — Create and share screenshots for Linux.
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## License
