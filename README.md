@@ -16,6 +16,7 @@
 - [Health](#health)
 - [Modeling](#modeling)
 - [Network](#network)
+- [PhpStorm Plugins](#phpstorm-plugins)
 - [Project and Task Management](#project-and-task-management)
 - [Security](#security)
 - [Storage](#storage)
@@ -54,6 +55,8 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
+- [WhatsApp](https://www.whatsapp.com/) — Freeware, cross-platform messaging and VoIP service.
+  <br>`Windows`, `Linux` (whatsdesk), `Mac`, `Android`, `iOS`, `Web`
 
 
 ## Configuration Management
@@ -132,6 +135,23 @@
   <br>`Windows`, `Linux`, `Mac`
 - [SoapUI](https://www.soapui.org/) — REST and SOAP testing tool.
   <br>`Windows`, `Linux`, `Mac`
+
+
+## PhpStorm Plugins
+*Plugins for PhpStorm IDE.*
+
+- [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
+- [Awesome Console](https://plugins.jetbrains.com/plugin/7677-awesome-console)
+- [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
+- [Deep associative array completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
+- [Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration)
+- [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+- [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+- [Shifter](https://plugins.jetbrains.com/plugin/6149-shifter)
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+- [YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration-plugin)
 
 
 ## Project and Task Management
