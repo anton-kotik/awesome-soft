@@ -29,6 +29,8 @@
 
 - [µTorrent](https://www.utorrent.com/intl/en/) — BitTorrent client.
   <br>`Windows`, `Mac`, `Android`, `Web`
+- [Transmission](https://transmissionbt.com/)
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## CLI
