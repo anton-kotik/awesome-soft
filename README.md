@@ -229,6 +229,10 @@
   <br>`Linux`
 - [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
+- [UNetbootin](https://unetbootin.github.io/)
+  <br>`Windows`, `Linux`, `Mac`
+- [balenaEtcher](https://www.balena.io/etcher/)
+  <br>`Windows`, `Linux`, `Mac`
 - [ScreenCloud](https://screencloud.net/) — Create and share screenshots for Linux.
   <br>`Windows`, `Linux`, `Mac`
 
