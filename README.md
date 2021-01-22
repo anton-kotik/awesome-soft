@@ -84,6 +84,8 @@
 ## Development
 *Software development, documenting and testing tools.*
 
+- [GitKraken](https://www.gitkraken.com/) — Git GUI client.
+  <br>`Windows`, `Linux`, `Mac`
 - [Docker](https://www.docker.com/) — Containerization platform.
   <br>`Linux`
 - [GitHub Desktop](https://desktop.github.com/) — GitHub desktop client.
