@@ -47,6 +47,8 @@
 ## Communications
 *Instant messaging (IM) and desktop sharing software.*
 
+- [Discord](https://discord.com/) — VoIP, instant messaging and digital distribution platform.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) — Email, news, RSS, and chat client.
@@ -91,6 +93,8 @@
 - [GitHub Desktop](https://desktop.github.com/) — GitHub desktop client.
   <br>`Windows`, `Mac`
 - [Kitematic](https://kitematic.com/) — GUI for running Docker containers.
+  <br>`Windows`, `Linux`, `Mac`
+- [Lens](https://k8slens.dev/) — The Kubernetes IDE.
   <br>`Windows`, `Linux`, `Mac`
 - [Open Server](https://ospanel.io/) — Portable WAMP platform.
   <br>`Windows`
