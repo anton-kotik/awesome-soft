@@ -51,6 +51,8 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
+- [KDE Connect](https://kdeconnect.kde.org/) — Integration all your devices.
+  <br>`Windows`, `Linux`, `Mac`, `Android`
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) — Email, news, RSS, and chat client.
   <br>`Windows`, `Linux`, `Mac`
 - [Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
@@ -59,6 +61,8 @@
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 - [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
   <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
+- [Vysor](https://www.vysor.io/) — Lets you view and control your Android on your computer.
+  <br>`Windows`, `Linux`, `Mac`, `Android`
 - [WhatsApp](https://www.whatsapp.com/) — Freeware, cross-platform messaging and VoIP service.
   <br>`Windows`, `Linux` (whatsdesk), `Mac`, `Android`, `iOS`, `Web`
 
@@ -98,7 +102,7 @@
   <br>`Windows`, `Linux`, `Mac`
 - [Open Server](https://ospanel.io/) — Portable WAMP platform.
   <br>`Windows`
-- [PhpStorm](http://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
   <br>`Windows`, `Linux`, `Mac`
 - [Vagrant](https://www.vagrantup.com/) — Product for building and maintaining portable virtual development environments.
   <br>`Windows`, `Linux`, `Mac`
@@ -159,13 +163,13 @@
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 - [Shifter](https://plugins.jetbrains.com/plugin/6149-shifter)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
-- [YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration-plugin)
+- [YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration/)
 
 
 ## Project and Task Management
 *The process of managing a project or a task through its life cycle.*
 
-- [Wunderlist](https://www.wunderlist.com/) — Task management application for smartphone, tablet, computer and smartwatch.
+- [Microsoft To Do](https://todo.microsoft.com/tasks/) — Task management application for smartphone, tablet, computer and smartwatch.
   <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 - [XMind](https://www.xmind.net/) — Mind mapping and brainstorming software.
   <br>`Windows`, `Linux`, `Mac`
@@ -194,7 +198,7 @@
 ## Text
 *Text editors and e-book readers.*
 
-- [Bear Writer](http://www.bear-writer.com/) — Beautiful, flexible writing app for crafting notes and prose.
+- [Bear Writer](https://bear.app/) — Beautiful, flexible writing app for crafting notes and prose.
   <br>`Mac`, `iOS`
 - [eReader Prestigio](http://ereader.prestigio.com/) — Multi lingual, multi format text and audio books reading app.
   <br>`Android`
@@ -227,13 +231,13 @@
   <br>`Windows`, `Linux`, `Mac`
 - [Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
   <br>`Linux`
-- [MediaMonkey](http://www.mediamonkey.com/) — Digital media player and media library application for Windows.
+- [MediaMonkey](https://www.mediamonkey.com/) — Digital media player and media library application for Windows.
   <br>`Windows`
 - [ObjectDock](https://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
 - [Peek](https://github.com/phw/peek) — Animated GIF screen recorder tool.
   <br>`Linux`
-- [Rufus](http://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
+- [Rufus](https://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
 - [UNetbootin](https://unetbootin.github.io/)
   <br>`Windows`, `Linux`, `Mac`
