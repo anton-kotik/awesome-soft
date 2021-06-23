@@ -212,6 +212,8 @@
   <br>`Windows`, `Linux`, `Mac`
 - [Typora](https://typora.io/) — Markdown editor.
   <br>`Windows`, `Linux`, `Mac`
+- [WPS Office](https://www.wps.com/) — office suite, alternative to Microsoft Office Word, Excel, etc.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 
 
 ## Utilities
