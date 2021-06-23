@@ -206,6 +206,8 @@
   <br>`Windows`
 - [Okular](https://okular.kde.org/) — Universal document viewer developed by KDE.
   <br>`Linux`
+- [OpenOffice](https://www.openoffice.org/) — office suite, alternative to Microsoft Office Word, Excel, etc.
+  <br>`Windows`, `Linux`, `Mac`
 - [Remarkable](http://remarkableapp.github.io/) — Markdown editor.
   <br>`Windows`, `Linux`
 - [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
