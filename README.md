@@ -18,6 +18,7 @@
 - [Network](#network)
 - [PhpStorm Plugins](#phpstorm-plugins)
 - [Project and Task Management](#project-and-task-management)
+- [Recording](#recording)
 - [Security](#security)
 - [Storage](#storage)
 - [Text](#text)
@@ -175,6 +176,21 @@
   <br>`Windows`, `Linux`, `Mac`
 
 
+## Recording
+*Screenshots, streaming, audio and video recording.*
+
+- [Joxi](http://joxi.net/) — Create and share screenshots.
+  <br>`Windows`, `Linux`, `Mac`
+- [Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
+  <br>`Linux`
+- [OBS Studio](https://obsproject.com/) — Video recording and live streaming.
+  <br>`Windows`, `Linux`, `Mac`
+- [Peek](https://github.com/phw/peek) — Animated GIF screen recorder tool.
+  <br>`Linux`
+- [ScreenCloud](https://screencloud.net/) — Create and share screenshots for Linux.
+  <br>`Windows`, `Linux`, `Mac`
+
+
 ## Security
 *Protect a computer system and computer network.*
 
@@ -204,6 +220,8 @@
   <br>`Android`
 - [Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
   <br>`Windows`
+- [Notion](https://www.notion.so/) — Knowledge management.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 - [Okular](https://okular.kde.org/) — Universal document viewer developed by KDE.
   <br>`Linux`
 - [OpenOffice](https://www.openoffice.org/) — office suite, alternative to Microsoft Office Word, Excel, etc.
@@ -231,23 +249,15 @@
   <br>`Windows`
 - [HardInfo](https://github.com/lpereira/hardinfo/wiki) — System profiler and hardware info for Linux.
   <br>`Linux`
-- [Joxi](http://joxi.net/) — Create and share screenshots.
-  <br>`Windows`, `Linux`, `Mac`
-- [Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
-  <br>`Linux`
 - [MediaMonkey](https://www.mediamonkey.com/) — Digital media player and media library application for Windows.
   <br>`Windows`
 - [ObjectDock](https://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
-- [Peek](https://github.com/phw/peek) — Animated GIF screen recorder tool.
-  <br>`Linux`
 - [Rufus](https://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
 - [UNetbootin](https://unetbootin.github.io/)
   <br>`Windows`, `Linux`, `Mac`
 - [balenaEtcher](https://www.balena.io/etcher/)
-  <br>`Windows`, `Linux`, `Mac`
-- [ScreenCloud](https://screencloud.net/) — Create and share screenshots for Linux.
   <br>`Windows`, `Linux`, `Mac`
 
 
