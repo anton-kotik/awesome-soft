@@ -148,6 +148,8 @@
   <br>`Windows`, `Linux`, `Mac`
 - [SoapUI](https://www.soapui.org/) — REST and SOAP testing tool.
   <br>`Windows`, `Linux`, `Mac`
+- [Windscribe](https://windscribe.com/) — VPN.
+  <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 
 
 ## PhpStorm Plugins
