@@ -255,6 +255,8 @@
   <br>`Windows`
 - [ObjectDock](https://www.stardock.com/products/objectdock/) — Animated dock for Windows.
   <br>`Windows`
+- [Paragon Hard Disk Manager](https://www.paragon-software.com/ru/home/hdm-windows/)
+  <br>`Windows`
 - [Rufus](https://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
 - [UNetbootin](https://unetbootin.github.io/)
