@@ -259,6 +259,8 @@
   <br>`Windows`
 - [UNetbootin](https://unetbootin.github.io/)
   <br>`Windows`, `Linux`, `Mac`
+- [WinRAR](https://www.win-rar.com/start.html?&L=0)
+  <br>`Windows`
 - [balenaEtcher](https://www.balena.io/etcher/)
   <br>`Windows`, `Linux`, `Mac`
 
