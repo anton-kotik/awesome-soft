@@ -259,6 +259,8 @@
   <br>`Windows`
 - [Paragon Hard Disk Manager](https://www.paragon-software.com/ru/home/hdm-windows/)
   <br>`Windows`
+- [Pinta](https://www.pinta-project.com/) — Paint for Linux.
+  <br>`Windows`, `Linux`, `Mac`
 - [Rufus](https://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
   <br>`Windows`
 - [UNetbootin](https://unetbootin.github.io/)
