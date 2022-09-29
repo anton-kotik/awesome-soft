@@ -120,6 +120,15 @@
   <br>`Windows`
 
 
+## Games and Fun
+*Software for games and fun.*
+
+- [Steam](https://store.steampowered.com/about/)
+  <br>`Windows`, `Linux`, `Mac`
+- [Epic Games](https://store.epicgames.com/en-US/download?lang=en-US)
+  <br>`Windows`, `Mac`
+
+
 ## Health
 *Software for sport and health.*
 
