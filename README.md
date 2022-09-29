@@ -13,6 +13,7 @@
 - [Database Management](#database-management)
 - [Development](#development)
 - [Drivers](#drivers)
+- [Games and Fun](#games-and-fun)
 - [Health](#health)
 - [Modeling](#modeling)
 - [Network](#network)
