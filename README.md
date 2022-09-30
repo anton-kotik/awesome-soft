@@ -124,10 +124,10 @@
 ## Games and Fun
 *Software for games and fun.*
 
-- [Steam](https://store.steampowered.com/about/)
-  <br>`Windows`, `Linux`, `Mac`
 - [Epic Games](https://store.epicgames.com/en-US/download?lang=en-US)
   <br>`Windows`, `Mac`
+- [Steam](https://store.steampowered.com/about/)
+  <br>`Windows`, `Linux`, `Mac`
 
 
 ## Health
@@ -185,6 +185,8 @@
 *The process of managing a project or a task through its life cycle.*
 
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) — Task management application for smartphone, tablet, computer and smartwatch.
+  <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
+- [Singularity](https://singularity-app.com/) — Chaos management planner.
   <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 - [XMind](https://www.xmind.net/) — Mind mapping and brainstorming software.
   <br>`Windows`, `Linux`, `Mac`
