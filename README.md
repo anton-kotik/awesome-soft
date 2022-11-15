@@ -87,6 +87,9 @@
 ## Configuration Management
 *Tracking and controlling software configurations.*
 
+:heavy_check_mark: [Synaptic Package Manager](https://www.nongnu.org/synaptic/) — GUI for apt. Allows to lock package version.
+<br>**`Linux`**
+
 [Ansible](https://www.ansible.com/) — Platform for configuring and managing computers.
 <br>`Windows`, `Linux`, `Mac`
 
