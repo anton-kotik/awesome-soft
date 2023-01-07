@@ -3,6 +3,7 @@
 
 > A curated list of awesome computer software for Windows, Linux, Mac OS, Android and iOS.
 > <br>:heavy_check_mark: = use now.
+> <br>:question: = not sure, need to try.
 
 
 ## Table of Contents
@@ -121,6 +122,9 @@
 
 :heavy_check_mark: [PhpStorm](https://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
 <br>`Windows`, **`Linux`**, `Mac`
+
+:question: [k9s](https://k9scli.io/) — a terminal based UI to interact with your Kubernetes clusters.
+<br>`Windows`, `Linux`, `Mac`
 
 [GitKraken](https://www.gitkraken.com/) — Git GUI client.
 <br>`Windows`, `Linux`, `Mac`
