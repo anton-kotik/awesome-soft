@@ -205,18 +205,35 @@
 ## PhpStorm Plugins
 *Plugins for PhpStorm IDE.*
 
-- [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
-- [Awesome Console](https://plugins.jetbrains.com/plugin/7677-awesome-console)
-- [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
-- [Deep associative array completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
-- [Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration)
-- [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
-- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
-- [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-- [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
-- [Shifter](https://plugins.jetbrains.com/plugin/6149-shifter)
-- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
-- [YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration/)
+[Awesome Console](https://plugins.jetbrains.com/plugin/7677-awesome-console) — Делает кликабельными ссылки на файлы и классы в консоли IDE.
+
+[YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration-plugin) — Плагин для интеграции IDE с YouTrack.
+
+[Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) — Плагин подсказывает хоткеи и помогает их запомнить.
+
+[Shifter](https://plugins.jetbrains.com/plugin/6149-shifter) / [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) — Всякие манипуляции со строками в коде.
+
+[Deep associative array completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion) — С этим плагином начнёт работать автокомплит для ключей ассоциативных массивов.
+
+[Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) — Подсветка в файлах с логами.
+[Настройки](https://gitlab.dv.team/dostavista/handbook/raw/master/.gitlab/phpstorm-plugins-ideolog-1.png).
+[Пример](https://gitlab.dv.team/dostavista/handbook/raw/master/.gitlab/phpstorm-plugins-ideolog-2.png).
+
+[Align Carets](https://plugins.jetbrains.com/plugin/10743-align-carets) — Выравнивание при использовании мультикурсора.
+
+[PhpStormProtocol](https://github.com/aik099/PhpStormProtocol) — Кликабельные `phpstorm://` ссылки.
+
+[Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) — Стильная тема для IDE.
+
+[Markdown](https://plugins.jetbrains.com/plugin/7793-markdown) — Поддержка Markdown файлов.
+
+[Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) — Nyan cat прогресс бар.
+
+[CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro) / [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) — Сайдбар с мини версией код как в Sublime.
+
+[Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
+
+[Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration)
 
 
 ## Project and Task Management
