@@ -216,8 +216,8 @@
 [Deep associative array completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion) — С этим плагином начнёт работать автокомплит для ключей ассоциативных массивов.
 
 [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) — Подсветка в файлах с логами.
-[Настройки](media/phpstorm-plugins-ideolog-1.png).
-[Пример](media/phpstorm-plugins-ideolog-2.png).
+[Настройки](media/phpstorm-plugins-ideolog-1.png?raw=true).
+[Пример](media/phpstorm-plugins-ideolog-2.png?raw=true).
 
 [Align Carets](https://plugins.jetbrains.com/plugin/10743-align-carets) — Выравнивание при использовании мультикурсора.
 
