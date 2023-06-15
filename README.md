@@ -1,5 +1,6 @@
 
-# Awesome Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft)
+# Awesome Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<!-- [![Build Status](https://travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft) -->
 
 > A curated list of awesome computer software for Windows, Linux, Mac OS, Android and iOS.
 > <br>:heavy_check_mark: = use now.
@@ -334,6 +335,9 @@
 :heavy_check_mark: [HardInfo](https://github.com/lpereira/hardinfo/wiki) — System profiler and hardware info for Linux.
 <br>**`Linux`**
 
+:heavy_check_mark: [Pinta](https://www.pinta-project.com/) — Paint for Linux.
+<br>`Windows`, **`Linux`**, `Mac`
+
 [AIDA64](https://www.aida64.com/) — System information, diagnostics, and auditing application.
 <br>`Windows`, `Android`, `iOS`
 
@@ -354,9 +358,6 @@
 
 [Paragon Hard Disk Manager](https://www.paragon-software.com/ru/home/hdm-windows/)
 <br>`Windows`
-
-[Pinta](https://www.pinta-project.com/) — Paint for Linux.
-<br>`Windows`, `Linux`, `Mac`
 
 [Rufus](https://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
 <br>`Windows`
