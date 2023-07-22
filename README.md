@@ -240,13 +240,16 @@
 ## Project and Task Management
 *The process of managing a project or a task through its life cycle.*
 
-:heavy_check_mark: [Singularity](https://singularity-app.com/) — Chaos management planner.
-<br>`Windows`, `Mac`, **`Android`**, `iOS`, **`Web`**
+:heavy_check_mark: [Todoist](https://todoist.com/) — To-Do list.
+<br>`Windows`, **`Linux`**, `Mac`, **`Android`**, `iOS`, `Web`
 
 :heavy_check_mark: [XMind](https://www.xmind.net/) — Mind mapping and brainstorming software.
 <br>`Windows`, **`Linux`**, `Mac`
 
 [Microsoft To Do](https://todo.microsoft.com/tasks/) — Task management application for smartphone, tablet, computer and smartwatch.
+<br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
+
+[Singularity](https://singularity-app.com/) — Chaos management planner.
 <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 
 
