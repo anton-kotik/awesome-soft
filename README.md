@@ -42,16 +42,16 @@
 ## CLI
 *Command-line interface and utils.*
 
-:heavy_check_mark: [Starship](https://starship.rs/) — The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+:heavy_check_mark: [Starship](https://starship.rs/) — the minimal, blazing-fast, and infinitely customizable prompt for any shell.
 <br>**`Linux`**
 
-[ConEmu](https://conemu.github.io/) — Free and open-source tabbed terminal emulator for Windows.
+[ConEmu](https://conemu.github.io/) — free and open-source tabbed terminal emulator for Windows.
 <br>`Windows`
 
-[fish](http://fishshell.com/) — Smart and user-friendly bash alternative.
+[fish](http://fishshell.com/) — smart and user-friendly bash alternative.
 <br>`Linux`, `Mac`
 
-[UnxUtils](http://unxutils.sourceforge.net/) — Ports of common GNU Unix-like utilities to native Win32.
+[UnxUtils](http://unxutils.sourceforge.net/) — ports of common GNU Unix-like utilities to native Win32.
 <br>`Windows`
 
 
@@ -61,28 +61,28 @@
 :heavy_check_mark: [Discord](https://discord.com/) — VoIP, instant messaging and digital distribution platform.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`, `iOS`
 
-:heavy_check_mark: [KDE Connect](https://kdeconnect.kde.org/) — Integration all your devices.
+:heavy_check_mark: [KDE Connect](https://kdeconnect.kde.org/) — integration all your devices.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`
 
-:heavy_check_mark: [TeamViewer](https://www.teamviewer.com/en/) — Remote control, desktop sharing and web conferencing.
+:heavy_check_mark: [TeamViewer](https://www.teamviewer.com/en/) — remote control, desktop sharing and web conferencing.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`, `iOS`
 
-:heavy_check_mark: [Telegram](https://telegram.org/) — Cloud-based instant messaging service.
+:heavy_check_mark: [Telegram](https://telegram.org/) — cloud-based instant messaging service.
 <br>**`Windows`**, **`Linux`**, `Mac`, **`Android`**, `iOS`, `Web`
 
-:heavy_check_mark: [WhatsApp](https://www.whatsapp.com/) — Freeware, cross-platform messaging and VoIP service.
+:heavy_check_mark: [WhatsApp](https://www.whatsapp.com/) — freeware, cross-platform messaging and VoIP service.
 <br>**`Windows`**, **`Linux`** (WhatSie / whatsdesk), `Mac`, **`Android`**, `iOS`, `Web`
 
-[Gitter](https://gitter.im/) — Instant messaging and chat room system for developers and users of GitHub repositories.
+[Gitter](https://gitter.im/) — instant messaging and chat room system for developers and users of GitHub repositories.
 <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 
-[Mozilla Thunderbird](https://www.thunderbird.net/en-US/) — Email, news, RSS, and chat client.
+[Mozilla Thunderbird](https://www.thunderbird.net/en-US/) — email, news, RSS, and chat client.
 <br>`Windows`, `Linux`, `Mac`
 
-[Skype](https://www.skype.com/en/) — Text, video chat and voice call service.
+[Skype](https://www.skype.com/en/) — text, video chat and voice call service.
 <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 
-[Vysor](https://www.vysor.io/) — Lets you view and control your Android on your computer.
+[Vysor](https://www.vysor.io/) — let you view and control your Android on your computer.
 <br>`Windows`, `Linux`, `Mac`, `Android`
 
 
@@ -92,42 +92,42 @@
 :heavy_check_mark: [Synaptic Package Manager](https://www.nongnu.org/synaptic/) — GUI for apt. Allows to lock package version.
 <br>**`Linux`**
 
-[Ansible](https://www.ansible.com/) — Platform for configuring and managing computers.
+[Ansible](https://www.ansible.com/) — platform for configuring and managing computers.
 <br>`Windows`, `Linux`, `Mac`
 
 
 ## Database Management
 *Software for SQL and NoSQL development, administration and database design.*
 
-:heavy_check_mark: [DataGrip](https://www.jetbrains.com/datagrip/) — Cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers for DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+:heavy_check_mark: [DataGrip](https://www.jetbrains.com/datagrip/) — cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers for DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
 <br>`Windows`, **`Linux`**, `Mac`
 
-[DBeaver](https://dbeaver.io/) — Universal SQL Client.
+[DBeaver](https://dbeaver.io/) — universal SQL Client.
 <br>`Windows`, `Linux`, `Mac`
 
-[Robomongo](https://robomongo.org/) — Native and cross-platform MongoDB manager.
+[Robomongo](https://robomongo.org/) — native and cross-platform MongoDB manager.
 <br>`Windows`, `Linux`, `Mac`
 
-[MySQL Workbench](http://mysqlworkbench.org) — Visual database administration and design tool for the MySQL database system.
+[MySQL Workbench](http://mysqlworkbench.org) — visual database administration and design tool for the MySQL database system.
 <br>`Windows`, `Linux`, `Mac`
 
 
 ## Development
 *Software development, documenting and testing tools.*
 
-:heavy_check_mark: [Docker](https://www.docker.com/) — Containerization platform.
+:heavy_check_mark: [Docker](https://www.docker.com/) — containerization platform.
 <br>**`Linux`**
 
-:heavy_check_mark: [Lens](https://k8slens.dev/) — The Kubernetes IDE.
+:heavy_check_mark: [Lens](https://k8slens.dev/) — Kubernetes IDE.
 <br>`Windows`, **`Linux`**, `Mac`
 
-:heavy_check_mark: [PhpStorm](https://www.jetbrains.com/phpstorm/) — Commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
+:heavy_check_mark: [PhpStorm](https://www.jetbrains.com/phpstorm/) — commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
 <br>`Windows`, **`Linux`**, `Mac`
 
 :question: [k9s](https://k9scli.io/) — a terminal based UI to interact with your Kubernetes clusters.
 <br>`Windows`, `Linux`, `Mac`
 
-[GitKraken](https://www.gitkraken.com/) — Git GUI client.
+[GitKraken](https://www.gitkraken.com/) — git GUI client.
 <br>`Windows`, `Linux`, `Mac`
 
 [GitHub Desktop](https://desktop.github.com/) — GitHub desktop client.
@@ -136,20 +136,20 @@
 [Kitematic](https://kitematic.com/) — GUI for running Docker containers.
 <br>`Windows`, `Linux`, `Mac`
 
-[Open Server](https://ospanel.io/) — Portable WAMP platform.
+[Open Server](https://ospanel.io/) — portable WAMP platform.
 <br>`Windows`
 
-[Vagrant](https://www.vagrantup.com/) — Product for building and maintaining portable virtual development environments.
+[Vagrant](https://www.vagrantup.com/) — product for building and maintaining portable virtual development environments.
 <br>`Windows`, `Linux`, `Mac`
 
 
 ## Drivers
 *Software interface to hardware devices.*
 
-:heavy_check_mark: [K-Lite Codec Pack](http://www.codecguide.com/) — Collection of audio and video codecs for Windows.
+:heavy_check_mark: [K-Lite Codec Pack](http://www.codecguide.com/) — collection of audio and video codecs for Windows.
 <br>**`Windows`**
 
-[DriverPack Solution](https://drp.su/en) — Drivers auto-installation.
+[DriverPack Solution](https://drp.su/en) — drivers auto-installation.
 <br>`Windows`
 
 [ext2fsd](https://sourceforge.net/projects/ext2fsd/)
@@ -169,10 +169,10 @@
 ## Health
 *Software for sport and health.*
 
-[f.lux](https://justgetflux.com/) — Adjusts a display's color temperature according to location and time of day.
+[f.lux](https://justgetflux.com/) — adjusts a display's color temperature according to location and time of day.
 <br>`Windows`, `Linux`, `Mac`
 
-[Yazio](https://www.yazio.com/en) — Calorie counter and diet tracker.
+[Yazio](https://www.yazio.com/en) — calorie counter and diet tracker.
 <br>`Android`, `iOS`
 
 
@@ -186,7 +186,7 @@
 ## Money
 *Financial management.*
 
-[Exodus](https://www.exodus.io/) — Multi-asset wallet.
+[Exodus](https://www.exodus.io/) — multi-asset wallet.
 <br>`Windows`, `Linux`, `Mac`
 
 
@@ -196,7 +196,7 @@
 :heavy_check_mark: [Windscribe](https://windscribe.com/) — VPN.
 <br>`Windows`, `Linux`, `Mac`, **`Android`**, `iOS`, `Web`
 
-[Fiddler](https://www.telerik.com/fiddler) — Free HTTP debugging proxy server application.
+[Fiddler](https://www.telerik.com/fiddler) — free HTTP debugging proxy server application.
 <br>`Windows`, `Linux`, `Mac`
 
 [SoapUI](https://www.soapui.org/) — REST and SOAP testing tool.
@@ -206,29 +206,29 @@
 ## PhpStorm Plugins
 *Plugins for PhpStorm IDE.*
 
-[Awesome Console](https://plugins.jetbrains.com/plugin/7677-awesome-console) — Делает кликабельными ссылки на файлы и классы в консоли IDE.
+[Awesome Console](https://plugins.jetbrains.com/plugin/7677-awesome-console) — делает кликабельными ссылки на файлы и классы в консоли IDE.
 
-[YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration-plugin) — Плагин для интеграции IDE с YouTrack.
+[YouTrack Integration](https://plugins.jetbrains.com/plugin/8215-youtrack-integration-plugin) — плагин для интеграции IDE с YouTrack.
 
-[Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) — Плагин подсказывает хоткеи и помогает их запомнить.
+[Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) — плагин подсказывает хоткеи и помогает их запомнить.
 
-[Shifter](https://plugins.jetbrains.com/plugin/6149-shifter) / [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) — Всякие манипуляции со строками в коде.
+[Shifter](https://plugins.jetbrains.com/plugin/6149-shifter) / [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) — всякие манипуляции со строками в коде.
 
-[Deep associative array completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion) — С этим плагином начнёт работать автокомплит для ключей ассоциативных массивов.
+[Deep associative array completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion) — с этим плагином начнёт работать автокомплит для ключей ассоциативных массивов.
 
-[Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) — Подсветка в файлах с логами.
+[Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) — подсветка в файлах с логами.
 [Настройки](media/phpstorm-plugins-ideolog-1.png?raw=true).
 [Пример](media/phpstorm-plugins-ideolog-2.png?raw=true).
 
-[Align Carets](https://plugins.jetbrains.com/plugin/10743-align-carets) — Выравнивание при использовании мультикурсора.
+[Align Carets](https://plugins.jetbrains.com/plugin/10743-align-carets) — выравнивание при использовании мультикурсора.
 
-[PhpStormProtocol](https://github.com/aik099/PhpStormProtocol) — Кликабельные `phpstorm://` ссылки.
+[PhpStormProtocol](https://github.com/aik099/PhpStormProtocol) — кликабельные `phpstorm://` ссылки.
 
-[Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) — Стильная тема для IDE.
+[Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) — стильная тема для IDE.
 
-[Markdown](https://plugins.jetbrains.com/plugin/7793-markdown) — Поддержка Markdown файлов.
+[Markdown](https://plugins.jetbrains.com/plugin/7793-markdown) — поддержка Markdown файлов.
 
-[Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) — Nyan cat прогресс бар.
+[Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) — nyan cat прогресс бар.
 
 [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro) / [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) — Сайдбар с мини версией код как в Sublime.
 
@@ -240,51 +240,51 @@
 ## Project and Task Management
 *The process of managing a project or a task through its life cycle.*
 
-:heavy_check_mark: [Todoist](https://todoist.com/) — To-Do list.
+:heavy_check_mark: [Todoist](https://todoist.com/) — to-do list.
 <br>`Windows`, **`Linux`**, `Mac`, **`Android`**, `iOS`, `Web`
 
-:heavy_check_mark: [XMind](https://www.xmind.net/) — Mind mapping and brainstorming software.
+:heavy_check_mark: [XMind](https://www.xmind.net/) — mind mapping and brainstorming software.
 <br>`Windows`, **`Linux`**, `Mac`
 
-[Microsoft To Do](https://todo.microsoft.com/tasks/) — Task management application for smartphone, tablet, computer and smartwatch.
+[Microsoft To Do](https://todo.microsoft.com/tasks/) — task management application for smartphone, tablet, computer and smartwatch.
 <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 
-[Singularity](https://singularity-app.com/) — Chaos management planner.
+[Singularity](https://singularity-app.com/) — chaos management planner.
 <br>`Windows`, `Mac`, `Android`, `iOS`, `Web`
 
 
 ## Recording
 *Screenshots, streaming, audio and video recording.*
 
-:heavy_check_mark: [Peek](https://github.com/phw/peek) — Animated GIF screen recorder tool.
+:heavy_check_mark: [Peek](https://github.com/phw/peek) — animated GIF screen recorder tool.
 <br>**`Linux`**
 
-[Joxi](http://joxi.net/) — Create and share screenshots.
+[Joxi](http://joxi.net/) — create and share screenshots.
 <br>`Windows`, `Linux`, `Mac`
 
-[Kazam](https://launchpad.net/kazam) — Simple screencast recording program.
+[Kazam](https://launchpad.net/kazam) — simple screencast recording program.
 <br>`Linux`
 
-[OBS Studio](https://obsproject.com/) — Video recording and live streaming.
+[OBS Studio](https://obsproject.com/) — video recording and live streaming.
 <br>`Windows`, `Linux`, `Mac`
 
-[ScreenCloud](https://screencloud.net/) — Create and share screenshots for Linux.
+[ScreenCloud](https://screencloud.net/) — create and share screenshots for Linux.
 <br>`Windows`, `Linux`, `Mac`
 
 
 ## Security
 *Protect a computer system and computer network.*
 
-:heavy_check_mark: [KeePass](https://keepass.info/) — Free and open source password manager.
+:heavy_check_mark: [KeePass](https://keepass.info/) — free and open source password manager.
 <br>`Windows`, **`Linux`** (KeePassXC), `Mac`
 
-[AdGuard](https://adguard.com/en/welcome.html) — Blocking of ad and tracking requests.
+[AdGuard](https://adguard.com/en/welcome.html) — blocking of ad and tracking requests.
 <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`
 
-[Avast](https://www.avast.com/en-us/index) — Family of antivirus software and internet security applications.
+[Avast](https://www.avast.com/en-us/index) — family of antivirus software and internet security applications.
 <br>`Windows`, `Mac`, `Android`
 
-[Malwarebytes Anti-Malware](https://www.malwarebytes.com/) (MBAM) — Finds and removes malware.
+[Malwarebytes Anti-Malware](https://www.malwarebytes.com/) (MBAM) — finds and removes malware.
 <br>`Windows`, `Mac`
 
 
@@ -294,7 +294,7 @@
 :heavy_check_mark: [Yandex.Disk](https://disk.yandex.ru/)
 <br>**`Windows`**, **`Linux`**, `Mac`, **`Android`**, `iOS`, **`Web`**
 
-[Dropbox](https://www.dropbox.com/) — Cloud storage service and client software.
+[Dropbox](https://www.dropbox.com/) — cloud storage service and client software.
 <br>`Windows`, `Linux`, `Mac`, `Android`, `iOS`, `Web`
 
 
@@ -310,59 +310,62 @@
 :heavy_check_mark: [WPS Office](https://www.wps.com/) — office suite, alternative to Microsoft Office Word, Excel, etc.
 <br>`Windows`, **`Linux`**, `Mac`, `Android`, `iOS`
 
-[Bear Writer](https://bear.app/) — Beautiful, flexible writing app for crafting notes and prose.
+:heavy_check_mark: [Emote](https://snapcraft.io/install/emote/ubuntu) — popup emoji picker.
+<br>**`Linux`**
+
+[Bear Writer](https://bear.app/) — beautiful, flexible writing app for crafting notes and prose.
 <br>`Mac`, `iOS`
 
-[eReader Prestigio](http://ereader.prestigio.com/) — Multi lingual, multi format text and audio books reading app.
+[eReader Prestigio](http://ereader.prestigio.com/) — multi lingual, multi format text and audio books reading app.
 <br>`Android`
 
-[Notepad++](https://notepad-plus-plus.org/) — Free source code editor and Windows Notepad replacement.
+[Notepad++](https://notepad-plus-plus.org/) — free source code editor and Windows Notepad replacement.
 <br>`Windows`
 
-[Okular](https://okular.kde.org/) — Universal document viewer developed by KDE.
+[Okular](https://okular.kde.org/) — universal document viewer developed by KDE.
 <br>`Linux`
 
 [OpenOffice](https://www.openoffice.org/) — office suite, alternative to Microsoft Office Word, Excel, etc.
 <br>`Windows`, `Linux`, `Mac`
 
-[Remarkable](http://remarkableapp.github.io/) — Markdown editor.
+[Remarkable](http://remarkableapp.github.io/) — markdown editor.
 <br>`Windows`, `Linux`
 
-[Typora](https://typora.io/) — Markdown editor.
+[Typora](https://typora.io/) — markdown editor.
 <br>`Windows`, `Linux`, `Mac`
 
 
 ## Utilities
 *Software utilities and widgets.*
 
-:heavy_check_mark: [HardInfo](https://github.com/lpereira/hardinfo/wiki) — System profiler and hardware info for Linux.
+:heavy_check_mark: [HardInfo](https://github.com/lpereira/hardinfo/wiki) — system profiler and hardware info for Linux.
 <br>**`Linux`**
 
 :heavy_check_mark: [Pinta](https://www.pinta-project.com/) — Paint for Linux.
 <br>`Windows`, **`Linux`**, `Mac`
 
-[AIDA64](https://www.aida64.com/) — System information, diagnostics, and auditing application.
+[AIDA64](https://www.aida64.com/) — system information, diagnostics, and auditing application.
 <br>`Windows`, `Android`, `iOS`
 
-[BoostSpeed](https://www.auslogics.com/en/software/boost-speed/) — Utils intended to speed up, optimize and clean computers.
+[BoostSpeed](https://www.auslogics.com/en/software/boost-speed/) — utils intended to speed up, optimize and clean computers.
 <br>`Windows`
 
-[Clementine](https://www.clementine-player.org/) — Music player and library organizer.
+[Clementine](https://www.clementine-player.org/) — music player and library organizer.
 <br>`Windows`, `Linux`, `Mac`
 
-[Fences](https://www.stardock.com/products/fences/) — Organizes desktop shortcuts and icons.
+[Fences](https://www.stardock.com/products/fences/) — organizes desktop shortcuts and icons.
 <br>`Windows`
 
-[MediaMonkey](https://www.mediamonkey.com/) — Digital media player and media library application for Windows.
+[MediaMonkey](https://www.mediamonkey.com/) — digital media player and media library application for Windows.
 <br>`Windows`
 
-[ObjectDock](https://www.stardock.com/products/objectdock/) — Animated dock for Windows.
+[ObjectDock](https://www.stardock.com/products/objectdock/) — animated dock for Windows.
 <br>`Windows`
 
 [Paragon Hard Disk Manager](https://www.paragon-software.com/ru/home/hdm-windows/)
 <br>`Windows`
 
-[Rufus](https://rufus.akeo.ie/) — Format and create bootable USB flash drives or Live USBs.
+[Rufus](https://rufus.akeo.ie/) — format and create bootable USB flash drives or Live USBs.
 <br>`Windows`
 
 [UNetbootin](https://unetbootin.github.io/)
