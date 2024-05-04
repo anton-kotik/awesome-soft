@@ -341,6 +341,9 @@
 :heavy_check_mark: [HardInfo](https://github.com/lpereira/hardinfo/wiki) — system profiler and hardware info for Linux.
 <br>**`Linux`**
 
+:heavy_check_mark: [Inkscape](https://inkscape.org) — a free vector graphics editor.
+<br>`Windows`, **`Linux`**, `Mac`
+
 :heavy_check_mark: [Pinta](https://www.pinta-project.com/) — Paint for Linux.
 <br>`Windows`, **`Linux`**, `Mac`
 
