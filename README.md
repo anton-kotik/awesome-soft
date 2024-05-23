@@ -118,6 +118,9 @@
 :heavy_check_mark: [Docker](https://www.docker.com/) — containerization platform.
 <br>**`Linux`**
 
+:heavy_check_mark: [Dicker Desktop](https://www.docker.com/products/docker-desktop/)
+<br>`Windows`, **`Linux`**, `Mac`
+
 :heavy_check_mark: [Lens](https://k8slens.dev/) — Kubernetes IDE.
 <br>`Windows`, **`Linux`**, `Mac`
 
