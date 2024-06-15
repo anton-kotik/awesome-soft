@@ -3,7 +3,7 @@
 <!-- [![Build Status](https://travis-ci.org/27cm/awesome-soft.svg?branch=master)](https://travis-ci.org/27cm/awesome-soft) -->
 
 > A curated list of awesome computer software for Windows, Linux, Mac OS, Android and iOS.
-> <br>:heavy_check_mark: = use now.
+> <br>⭐ = use now.
 > <br>:question: = not sure, need to try.
 
 
@@ -32,17 +32,17 @@
 ## BitTorrent
 *A peer-to-peer file sharing (P2P) communications protocol.*
 
-:heavy_check_mark: [µTorrent](https://www.utorrent.com/intl/en/) — BitTorrent client.
+⭐ [µTorrent](https://www.utorrent.com/intl/en/) — BitTorrent client.
 <br>**`Windows`**, `Mac`, `Android`, `Web`
 
-:heavy_check_mark: [Transmission](https://transmissionbt.com/)
+⭐ [Transmission](https://transmissionbt.com/)
 <br>`Windows`, **`Linux`**, `Mac`
 
 
 ## CLI
 *Command-line interface and utils.*
 
-:heavy_check_mark: [Starship](https://starship.rs/) — the minimal, blazing-fast, and infinitely customizable prompt for any shell.
+⭐ [Starship](https://starship.rs/) — the minimal, blazing-fast, and infinitely customizable prompt for any shell.
 <br>**`Linux`**
 
 [ConEmu](https://conemu.github.io/) — free and open-source tabbed terminal emulator for Windows.
@@ -58,22 +58,22 @@
 ## Communications
 *Instant messaging (IM) and desktop sharing software.*
 
-:heavy_check_mark: [Discord](https://discord.com/) — VoIP, instant messaging and digital distribution platform.
+⭐ [Discord](https://discord.com/) — VoIP, instant messaging and digital distribution platform.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`, `iOS`
 
-:heavy_check_mark: [KDE Connect](https://kdeconnect.kde.org/) — integration all your devices.
+⭐ [KDE Connect](https://kdeconnect.kde.org/) — integration all your devices.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`
 
-:heavy_check_mark: [TeamViewer](https://www.teamviewer.com/en/) — remote control, desktop sharing and web conferencing.
+⭐ [TeamViewer](https://www.teamviewer.com/en/) — remote control, desktop sharing and web conferencing.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`, `iOS`
 
-:heavy_check_mark: [AnyDesk](https://anydesk.com/) — remote desktop application.
+⭐ [AnyDesk](https://anydesk.com/) — remote desktop application.
 <br>**`Windows`**, **`Linux`**, `Mac`, `Android`, `iOS`
 
-:heavy_check_mark: [Telegram](https://telegram.org/) — cloud-based instant messaging service.
+⭐ [Telegram](https://telegram.org/) — cloud-based instant messaging service.
 <br>**`Windows`**, **`Linux`**, `Mac`, **`Android`**, `iOS`, `Web`
 
-:heavy_check_mark: [WhatsApp](https://www.whatsapp.com/) — freeware, cross-platform messaging and VoIP service.
+⭐ [WhatsApp](https://www.whatsapp.com/) — freeware, cross-platform messaging and VoIP service.
 <br>**`Windows`**, **`Linux`** (WhatSie / whatsdesk), `Mac`, **`Android`**, `iOS`, `Web`
 
 [Gitter](https://gitter.im/) — instant messaging and chat room system for developers and users of GitHub repositories.
@@ -92,7 +92,7 @@
 ## Configuration Management
 *Tracking and controlling software configurations.*
 
-:heavy_check_mark: [Synaptic Package Manager](https://www.nongnu.org/synaptic/) — GUI for apt. Allows to lock package version.
+⭐ [Synaptic Package Manager](https://www.nongnu.org/synaptic/) — GUI for apt. Allows to lock package version.
 <br>**`Linux`**
 
 [Ansible](https://www.ansible.com/) — platform for configuring and managing computers.
@@ -102,7 +102,7 @@
 ## Database Management
 *Software for SQL and NoSQL development, administration and database design.*
 
-:heavy_check_mark: [DataGrip](https://www.jetbrains.com/datagrip/) — cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers for DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+⭐ [DataGrip](https://www.jetbrains.com/datagrip/) — cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers for DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
 <br>`Windows`, **`Linux`**, `Mac`
 
 [DBeaver](https://dbeaver.io/) — universal SQL Client.
@@ -118,16 +118,16 @@
 ## Development
 *Software development, documenting and testing tools.*
 
-:heavy_check_mark: [Docker](https://www.docker.com/) — containerization platform.
+⭐ [Docker](https://www.docker.com/) — containerization platform.
 <br>**`Linux`**
 
-:heavy_check_mark: [Dicker Desktop](https://www.docker.com/products/docker-desktop/)
+⭐ [Dicker Desktop](https://www.docker.com/products/docker-desktop/)
 <br>`Windows`, **`Linux`**, `Mac`
 
-:heavy_check_mark: [Lens](https://k8slens.dev/) — Kubernetes IDE.
+⭐ [Lens](https://k8slens.dev/) — Kubernetes IDE.
 <br>`Windows`, **`Linux`**, `Mac`
 
-:heavy_check_mark: [PhpStorm](https://www.jetbrains.com/phpstorm/) — commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
+⭐ [PhpStorm](https://www.jetbrains.com/phpstorm/) — commercial, cross-platform IDE for PHP built on JetBrains IntelliJ IDEA platform.
 <br>`Windows`, **`Linux`**, `Mac`
 
 :question: [k9s](https://k9scli.io/) — a terminal based UI to interact with your Kubernetes clusters.
@@ -152,7 +152,7 @@
 ## Drivers
 *Software interface to hardware devices.*
 
-:heavy_check_mark: [K-Lite Codec Pack](http://www.codecguide.com/) — collection of audio and video codecs for Windows.
+⭐ [K-Lite Codec Pack](http://www.codecguide.com/) — collection of audio and video codecs for Windows.
 <br>**`Windows`**
 
 [DriverPack Solution](https://drp.su/en) — drivers auto-installation.
@@ -165,10 +165,10 @@
 ## Games and Fun
 *Software for games and fun.*
 
-:heavy_check_mark: [Epic Games](https://store.epicgames.com/en-US/download?lang=en-US)
+⭐ [Epic Games](https://store.epicgames.com/en-US/download?lang=en-US)
 <br>**`Windows`**, `Mac`
 
-:heavy_check_mark: [Steam](https://store.steampowered.com/about/)
+⭐ [Steam](https://store.steampowered.com/about/)
 <br>**`Windows`**, `Linux`, `Mac`
 
 
@@ -199,7 +199,7 @@
 ## Network
 *Software for computer networks.*
 
-:heavy_check_mark: [Windscribe](https://windscribe.com/) — VPN.
+⭐ [Windscribe](https://windscribe.com/) — VPN.
 <br>`Windows`, `Linux`, `Mac`, **`Android`**, `iOS`, `Web`
 
 [Fiddler](https://www.telerik.com/fiddler) — free HTTP debugging proxy server application.
@@ -246,10 +246,10 @@
 ## Project and Task Management
 *The process of managing a project or a task through its life cycle.*
 
-:heavy_check_mark: [Todoist](https://todoist.com/) — to-do list.
+⭐ [Todoist](https://todoist.com/) — to-do list.
 <br>`Windows`, **`Linux`**, `Mac`, **`Android`**, `iOS`, `Web`
 
-:heavy_check_mark: [XMind](https://www.xmind.net/) — mind mapping and brainstorming software.
+⭐ [XMind](https://www.xmind.net/) — mind mapping and brainstorming software.
 <br>`Windows`, **`Linux`**, `Mac`
 
 [Microsoft To Do](https://todo.microsoft.com/tasks/) — task management application for smartphone, tablet, computer and smartwatch.
@@ -262,7 +262,7 @@
 ## Recording
 *Screenshots, streaming, audio and video recording.*
 
-:heavy_check_mark: [Peek](https://github.com/phw/peek) — animated GIF screen recorder tool.
+⭐ [Peek](https://github.com/phw/peek) — animated GIF screen recorder tool.
 <br>**`Linux`**
 
 [Joxi](http://joxi.net/) — create and share screenshots.
@@ -281,7 +281,7 @@
 ## Security
 *Protect a computer system and computer network.*
 
-:heavy_check_mark: [KeePass](https://keepass.info/) — free and open source password manager.
+⭐ [KeePass](https://keepass.info/) — free and open source password manager.
 <br>`Windows`, **`Linux`** (KeePassXC), `Mac`
 
 [AdGuard](https://adguard.com/en/welcome.html) — blocking of ad and tracking requests.
@@ -297,7 +297,7 @@
 ## Storage
 *File hosting service (cloud storage) and file management software.*
 
-:heavy_check_mark: [Yandex.Disk](https://disk.yandex.ru/)
+⭐ [Yandex.Disk](https://disk.yandex.ru/)
 <br>**`Windows`**, **`Linux`**, `Mac`, **`Android`**, `iOS`, **`Web`**
 
 [Dropbox](https://www.dropbox.com/) — cloud storage service and client software.
@@ -307,16 +307,16 @@
 ## Text
 *Text editors and e-book readers.*
 
-:heavy_check_mark: [Notion](https://www.notion.so/) — Knowledge management.
+⭐ [Notion](https://www.notion.so/) — Knowledge management.
 <br>`Windows`, `Linux`, `Mac`, **`Android`**, `iOS`, **`Web`**
 
-:heavy_check_mark: [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
+⭐ [Sublime Text](https://www.sublimetext.com/) — Cross-platform source code editor with API.
 <br>`Windows`, **`Linux`**, `Mac`
 
-:heavy_check_mark: [WPS Office](https://www.wps.com/) — office suite, alternative to Microsoft Office Word, Excel, etc.
+⭐ [WPS Office](https://www.wps.com/) — office suite, alternative to Microsoft Office Word, Excel, etc.
 <br>`Windows`, **`Linux`**, `Mac`, `Android`, `iOS`
 
-:heavy_check_mark: [Emote](https://snapcraft.io/install/emote/ubuntu) — popup emoji picker.
+⭐ [Emote](https://snapcraft.io/install/emote/ubuntu) — popup emoji picker.
 <br>**`Linux`**
 
 [Bear Writer](https://bear.app/) — beautiful, flexible writing app for crafting notes and prose.
@@ -344,19 +344,19 @@
 ## Utilities
 *Software utilities and widgets.*
 
-:heavy_check_mark: [Driver Booster](https://www.iobit.com/en/driver-booster.php) — outdated drivers updater.
+⭐ [Driver Booster](https://www.iobit.com/en/driver-booster.php) — outdated drivers updater.
 <br>**`Windows`**
 
-:heavy_check_mark: [HardInfo](https://github.com/lpereira/hardinfo/wiki) — system profiler and hardware info for Linux.
+⭐ [HardInfo](https://github.com/lpereira/hardinfo/wiki) — system profiler and hardware info for Linux.
 <br>**`Linux`**
 
-:heavy_check_mark: [Inkscape](https://inkscape.org) — a free vector graphics editor.
+⭐ [Inkscape](https://inkscape.org) — a free vector graphics editor.
 <br>`Windows`, **`Linux`**, `Mac`
 
-:heavy_check_mark: [OCCT](https://www.ocbase.com/occt/personal) — hardware stability testing.
+⭐ [OCCT](https://www.ocbase.com/occt/personal) — hardware stability testing.
 <br>**`Windows`**
 
-:heavy_check_mark: [Pinta](https://www.pinta-project.com/) — Paint for Linux.
+⭐ [Pinta](https://www.pinta-project.com/) — Paint for Linux.
 <br>`Windows`, **`Linux`**, `Mac`
 
 [AIDA64](https://www.aida64.com/) — system information, diagnostics, and auditing application.
